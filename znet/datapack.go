@@ -4,8 +4,9 @@ import (
 	"bytes"
 	"encoding/binary"
 	"fmt"
-	"re_zinx/utils"
-	"re_zinx/ziface"
+
+	"e.coding.net/646222472/framework/zinc/utils"
+	"e.coding.net/646222472/framework/zinc/ziface"
 )
 
 // DataPack 封包，拆包的模块

@@ -2,9 +2,10 @@ package znet
 
 import (
 	"fmt"
-	"re_zinx/utils"
-	"re_zinx/ziface"
 	"strconv"
+
+	"e.coding.net/646222472/framework/zinc/utils"
+	"e.coding.net/646222472/framework/zinc/ziface"
 )
 
 // MsgHandler 消息处理模块的实现

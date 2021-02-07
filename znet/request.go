@@ -1,6 +1,6 @@
 package znet
 
-import "re_zinx/ziface"
+import "e.coding.net/646222472/framework/zinc/ziface"
 
 // Request 请求的封装
 type Request struct {

@@ -3,7 +3,8 @@ package utils
 import (
 	"encoding/json"
 	"io/ioutil"
-	"re_zinx/ziface"
+
+	"e.coding.net/646222472/framework/zinc/ziface"
 )
 
 // GlobalOjb 存储一切有关Zinx框架的全局参数，供其它模块使用

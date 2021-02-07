@@ -4,9 +4,10 @@ import (
 	"fmt"
 	"io"
 	"net"
-	"re_zinx/utils"
-	"re_zinx/ziface"
 	"sync"
+
+	"e.coding.net/646222472/framework/zinc/utils"
+	"e.coding.net/646222472/framework/zinc/ziface"
 )
 
 // Connection 链接模块

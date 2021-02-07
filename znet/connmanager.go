@@ -2,8 +2,9 @@ package znet
 
 import (
 	"fmt"
-	"re_zinx/ziface"
 	"sync"
+
+	"e.coding.net/646222472/framework/zinc/ziface"
 )
 
 // ConnManager 实现链接管理模块

@@ -5,8 +5,8 @@ import (
 	"encoding/binary"
 	"fmt"
 
-	"e.coding.net/646222472/framework/zinc/utils"
-	"e.coding.net/646222472/framework/zinc/ziface"
+	"github.com/646222472/zinx/utils"
+	"github.com/646222472/zinx/ziface"
 )
 
 // DataPack 封包，拆包的模块

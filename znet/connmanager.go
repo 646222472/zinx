@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"sync"
 
-	"e.coding.net/646222472/framework/zinc/ziface"
+	"github.com/646222472/zinx/ziface"
 )
 
 // ConnManager 实现链接管理模块

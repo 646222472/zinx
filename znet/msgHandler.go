@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"strconv"
 
-	"e.coding.net/646222472/framework/zinc/utils"
-	"e.coding.net/646222472/framework/zinc/ziface"
+	"github.com/646222472/zinx/utils"
+	"github.com/646222472/zinx/ziface"
 )
 
 // MsgHandler 消息处理模块的实现

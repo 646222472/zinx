@@ -1,3 +1,3 @@
-module e.coding.net/646222472/framework/zinc
+module github.com/646222472/zinx
 
 go 1.15

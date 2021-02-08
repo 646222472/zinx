@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"net"
 
-	"e.coding.net/646222472/framework/zinc/utils"
-	"e.coding.net/646222472/framework/zinc/ziface"
+	"github.com/646222472/zinx/utils"
+	"github.com/646222472/zinx/ziface"
 )
 
 // Server iServer的接口实现，定义一个Server的服务器模块

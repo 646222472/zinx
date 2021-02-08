@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"io/ioutil"
 
-	"e.coding.net/646222472/framework/zinc/ziface"
+	"github.com/646222472/zinx/ziface"
 )
 
 // GlobalOjb 存储一切有关Zinx框架的全局参数，供其它模块使用
